@@ -4,8 +4,6 @@ import java.util.Date;
 import java.util.List;
 import java.util.Scanner;
 
-import com.mysql.cj.protocol.a.DebugBufferingPacketReader;
-
 import model.dao.DaoFactory;
 import model.dao.SellerDao;
 import model.entities.Department;
